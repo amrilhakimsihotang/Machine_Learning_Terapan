@@ -263,7 +263,7 @@ Tabel 5. nilai mse dan hasil prediksi dari keempat model
 Dari hasil tersebut, dapat dilihat bahwa MSE untuk algoritma Boosting jauh lebih tinggi dibandingkan dengan yang lain baik pada data latih maupun data uji. Sedangkan untuk algoritma KNN, RF, dan LR, MSE pada data latih dan data uji hampir sama. Semakin kecil MSE, semakin baik performa modelnya. Berdasarkan tabel 5 diatas, model ***RandomForest(RF)*** menunjukkan performa terbaik dengan memiliki mse yang terendah untuk data pelatihan(train) dan hasil yang sebanding dengan *K-Nearest Neighbors (KNN) *untuk data uji(test).
 
 ## Refenrensi
-[1]https://www.dicoding.com/academies/319/tutorials/16994\
-[2]https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html\
-[3]https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners/
+[1]https://www.dicoding.com/academies/319/tutorials/16994<br>
+[2]https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
+[3]https://www.analyticsvidhya.com/blog/2021/09/adaboost-algorithm-a-complete-guide-for-beginners
 [4]https://www.kaggle.com/datasets/ahmadkarrabi/gold-price-archive-2010-2023-dataset

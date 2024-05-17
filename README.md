@@ -5,5 +5,5 @@ Machine Learning Terapan - Dicoding
 Menggunakan https://colab.research.google.com<br>
 Menggunakan bahasa pemrograman Python 3<br>
 Hardware accelerator: T4 GPU<br>
-Proyek Pertama : 
+Proyek Pertama : Predictive Analytics<br>
 Proyek Akhir : Recommender system
